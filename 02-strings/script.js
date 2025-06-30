@@ -6,7 +6,12 @@ const Name = 'Omar';
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
-
+const number = 1;
+console.log(1);
+const text = 'Casa'
+console.log(Casa);
+const bool = true;
+console.log(bool);
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
 // in console la stringa con il nome completo
